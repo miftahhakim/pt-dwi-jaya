@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import logo from "../assets/logo pt dwi jaya.jpg";
 
 function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
