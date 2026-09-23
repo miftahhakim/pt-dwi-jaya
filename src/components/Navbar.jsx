@@ -31,7 +31,11 @@ function Navbar() {
       className={`navbar navbar-expand-lg navbar-custom fixed-top ${isScrolled ? "scrolled" : ""}`}
     >
       <div className="container">
-        <a className="navbar-brand" href="#home" onClick={closeNavbarMenu}>
+        <a
+          className="navbar-brand d-flex align-items-center gap-2"
+          href="#home"
+        >
+          <img src={logo} alt="Logo PT Dwi Jaya" height="42" />
           PT DWI JAYA
         </a>
         <button
