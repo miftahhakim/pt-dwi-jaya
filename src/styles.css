@@ -825,3 +825,8 @@ section {
 .footer-contact-item i {
   color: #c0455c;
 }
+/* Scroll halus saat klik menu + jarak agar judul section tidak ketutup navbar sticky */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
