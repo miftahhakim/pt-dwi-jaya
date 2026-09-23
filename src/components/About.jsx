@@ -6,7 +6,7 @@ function About() {
           <div className="col-12 mb-4">
             <div className="about-image">
               <img
-                src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1200&q=80"
+                src="/image/tim dwi jaya.jpg"
                 alt="Proyek konstruksi PT Dwi Jaya"
               />
             </div>
