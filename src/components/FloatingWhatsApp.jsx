@@ -1,6 +1,6 @@
 function FloatingWhatsApp() {
   // GANTI NOMOR INI dengan nomor WhatsApp asli perusahaan (format: 628xxx)
-  const phoneNumber = "6281234567890";
+  const phoneNumber = "6285216173239";
 
   // Pesan otomatis yang akan muncul saat klien membuka WhatsApp
   const message =
