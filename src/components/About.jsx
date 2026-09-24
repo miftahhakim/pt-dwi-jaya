@@ -13,9 +13,9 @@ function About() {
           </div>
 
           <div className="col-12">
-            <h2 className="section-title">Tentang PT Dwi Jaya</h2>
+            <h2 className="section-title">Tentang CV Dwi Jaya</h2>
             <p className="mb-4">
-              PT Dwi Jaya adalah perusahaan kontraktor yang berkomitmen untuk
+              CV Dwi Jaya adalah perusahaan kontraktor yang berkomitmen untuk
               memberikan layanan konstruksi berkualitas tinggi. Kami fokus pada
               kepuasan klien melalui pekerjaan yang profesional, tepat waktu,
               dan sesuai dengan standar industri.

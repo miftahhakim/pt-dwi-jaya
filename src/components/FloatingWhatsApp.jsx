@@ -4,7 +4,7 @@ function FloatingWhatsApp() {
 
   // Pesan otomatis yang akan muncul saat klien membuka WhatsApp
   const message =
-    "Halo PT Dwi Jaya, saya ingin berkonsultasi mengenai kebutuhan konstruksi.";
+    "Halo CV Dwi Jaya, saya ingin berkonsultasi mengenai kebutuhan konstruksi.";
 
   // Encode pesan agar aman untuk URL
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;

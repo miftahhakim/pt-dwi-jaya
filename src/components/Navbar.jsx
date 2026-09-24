@@ -37,7 +37,7 @@ function Navbar() {
           href="#home"
         >
           <img src={logo} alt="Logo PT Dwi Jaya" height="42" />
-          PT DWI JAYA
+          CV DWI JAYA
         </a>
         <button
           className="navbar-toggler"

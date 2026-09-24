@@ -4,7 +4,7 @@ function Footer() {
       <div className="container">
         <div className="row">
           <div className="col-lg-4 mb-4 mb-lg-0">
-            <div className="footer-brand">PT DWI JAYA</div>
+            <div className="footer-brand">CV DWI JAYA</div>
             <p className="footer-tagline">Professional Construction Partner</p>
             <p style={{ color: "rgba(255, 255, 255, 0.7)" }}>
               Mitra konstruksi terpercaya untuk berbagai kebutuhan proyek
@@ -76,7 +76,7 @@ function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p className="mb-0">© 2026 PT Dwi Jaya. All rights reserved.</p>
+          <p className="mb-0">© 2026 CV Dwi Jaya. All rights reserved.</p>
         </div>
       </div>
     </footer>

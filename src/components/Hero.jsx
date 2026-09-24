@@ -9,7 +9,7 @@ function Hero() {
           </div> */}
           <h2>Solusi Konstruksi Profesional Untuk Setiap Proyek</h2>
           <p>
-            PT Dwi Jaya hadir sebagai mitra konstruksi yang mengutamakan
+            CV Dwi Jaya hadir sebagai mitra konstruksi yang mengutamakan
             kualitas pekerjaan, ketepatan waktu, dan profesionalisme.
           </p>
           <div className="d-flex flex-wrap gap-2">

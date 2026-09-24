@@ -13,21 +13,21 @@ function Statistics() {
           <div className="col-md-3 col-6">
             <div className="stat-item">
               {/* Ganti [XX] dengan angka sebenarnya ketika data tersedia */}
-              <div className="stat-number">[XX]+</div>
+              <div className="stat-number">300+</div>
               <div className="stat-label">Client</div>
             </div>
           </div>
           <div className="col-md-3 col-6">
             <div className="stat-item">
               {/* Ganti [XX] dengan angka sebenarnya ketika data tersedia */}
-              <div className="stat-number">[XX]</div>
+              <div className="stat-number">20</div>
               <div className="stat-label">Years Experience</div>
             </div>
           </div>
           <div className="col-md-3 col-6">
             <div className="stat-item">
               {/* Ganti [XX] dengan angka sebenarnya ketika data tersedia */}
-              <div className="stat-number">[XX]+</div>
+              <div className="stat-number">15+</div>
               <div className="stat-label">Team Members</div>
             </div>
           </div>

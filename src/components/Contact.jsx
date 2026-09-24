@@ -16,7 +16,7 @@ function Contact() {
                 <i className="bi bi-building"></i>
               </div>
               <div className="contact-info-content">
-                <h4>PT Dwi Jaya</h4>
+                <h4>CV Dwi Jaya</h4>
                 <p>Professional Construction Partner</p>
               </div>
             </div>

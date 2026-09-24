@@ -37,13 +37,13 @@ function WhyChooseUs() {
       <div className="container">
         <div className="row">
           <div className="col-lg-5 mb-4 mb-lg-0">
-            <h2 className="section-title">Mengapa Memilih PT Dwi Jaya?</h2>
+            <h2 className="section-title">Mengapa Memilih CV Dwi Jaya?</h2>
             <p className="section-subtitle">
               Kami berkomitmen untuk memberikan layanan terbaik dengan standar
               profesional tinggi
             </p>
             <p>
-              Dengan pengalaman dan dedikasi dalam industri konstruksi, PT Dwi
+              Dengan pengalaman dan dedikasi dalam industri konstruksi, CV Dwi
               Jaya siap menjadi mitra terpercaya untuk proyek konstruksi Anda.
               Kami mengutamakan kualitas, ketepatan waktu, dan kepuasan klien
               dalam setiap pekerjaan.
