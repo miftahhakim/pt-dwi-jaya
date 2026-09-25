@@ -28,7 +28,7 @@ function Contact() {
               <div className="contact-info-content">
                 <h4>Alamat</h4>
                 <p>
-                  [Alamat Lengkap]
+                  Permata
                   <br />
                   Tangerang, Banten
                   <br />
@@ -43,7 +43,7 @@ function Contact() {
               </div>
               <div className="contact-info-content">
                 <h4>Telepon</h4>
-                <p>[Nomor Telepon]</p>
+                <p>085216173239</p>
               </div>
             </div>
 
@@ -63,7 +63,7 @@ function Contact() {
         <div className="map-placeholder">
           <p>
             <i className="bi bi-geo-alt me-2"></i>
-            Google Maps Placeholder - Ganti dengan embed Google Maps asli
+            Google Maps
           </p>
         </div>
       </div>
