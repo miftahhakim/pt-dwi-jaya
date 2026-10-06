@@ -16,21 +16,21 @@ function Projects() {
       title: "Taman Beverly Golf",
       category: "Pekerjaan Besi",
       description: "Pekerjaan Pintu Besi & Railing Tangga",
-      cover: "/images/project-taman-beverly/IMG_5834.JPG",
+      cover: "/image/project-taman-beverly/IMG_5834.JPG",
       images: [
-        "/images/project-taman-beverly/IMG_5835.JPG",
-        "/images/project-taman-beverly/IMG_5836.JPG",
-        "/images/project-taman-beverly/IMG_5837.JPG",
+        "/image/project-taman-beverly/IMG_5835.JPG",
+        "/image/project-taman-beverly/IMG_5836.JPG",
+        "/image/project-taman-beverly/IMG_5837.JPG",
       ],
     },
     {
       title: "Proyek Palm Rivera Karawaci",
       category: "Pekerjaan Besi",
       description: "Konstruksi Baja, Railing Tangga, dan Balkon",
-      cover: "/images/project-palm-rivera/IMG_5824.JPG",
+      cover: "/image/project-palm-rivera/IMG_5824.JPG",
       images: [
-        "/images/project-palm-rivera/IMG_5825.JPG",
-        "/images/project-palm-rivera/IMG_5826.JPG",
+        "/image/project-palm-rivera/IMG_5825.JPG",
+        "/image/project-palm-rivera/IMG_5826.JPG",
       ],
     },
     {
