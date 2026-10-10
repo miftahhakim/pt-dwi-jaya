@@ -44,6 +44,9 @@ function Projects() {
       description: "Pembangunan Konstruksi Baja Pada Lapangan Padel",
       cover: "/images/project-padel-karawaci/img_5809.jpg",
       images: [
+        "/images/project-padel-karawaci/img_6608.jpg",
+        "/images/project-padel-karawaci/img_6609.jpg",
+        "/images/project-padel-karawaci/img_6612.jpg",
         "/images/project-padel-karawaci/img_5810.jpg",
         "/images/project-padel-karawaci/img_5811.jpg",
         "/images/project-padel-karawaci/img_5812.jpg",
@@ -51,29 +54,42 @@ function Projects() {
       ],
     },
     {
-      title: "Project 04",
+      title: "Proyek Kampus POLTEKIP dan POLTEKIM Tangerang",
       category: "Building",
-      description: "[Deskripsi proyek dapat disesuaikan]",
+      description: "Pembangunan Gedung Kampus POLTEKIP dan POLTEKIM Tangerang",
       cover:
-        "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80",
-      images: [],
+        "/images/Proyek Kampus POLTEKIP dan POLTEKIM Tangerang/img_6622.jpg",
+      images: [
+        "/images/Proyek Kampus POLTEKIP dan POLTEKIM Tangerang/img_6623.jpg",
+        "/images/Proyek Kampus POLTEKIP dan POLTEKIM Tangerang/img_6624.jpg",
+        "/images/Proyek Kampus POLTEKIP dan POLTEKIM Tangerang/img_6625.jpg",
+      ],
     },
     {
-      title: "Project 05",
+      title: "Proyek Northplay Padel Pusdik Lantas Polri Alam Sutra",
       category: "Civil Works",
-      description: "[Deskripsi proyek dapat disesuaikan]",
-      cover:
-        "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
-      images: [],
+      description:
+        "Pembangunan Lapangan Padel Northplay Pusdik Lantas Polri Alam Sutra",
+      cover: "/images/Proyek Northplay/img_5822.jpg",
+      images: [
+        "/images/Proyek Northplay/img_5814.jpg",
+        "/images/Proyek Northplay/img_5815.jpg",
+        "/images/Proyek Northplay/img_5816.jpg",
+        "/images/Proyek Northplay/img_5817.jpg",
+        "/images/Proyek Northplay/img_5818.jpg",
+        "/images/Proyek Northplay/img_5819.jpg",
+        "/images/Proyek Northplay/img_5820.jpg",
+        "/images/Proyek Northplay/img_5821.jpg",
+      ],
     },
-    {
-      title: "Project 06",
-      category: "Renovation",
-      description: "[Deskripsi proyek dapat disesuaikan]",
-      cover:
-        "https://images.unsplash.com/photo-1590725121839-892b458a74fe?w=800&q=80",
-      images: [],
-    },
+    // {
+    //   title: "Project 06",
+    //   category: "Renovation",
+    //   description: "[Deskripsi proyek dapat disesuaikan]",
+    //   cover:
+    //     "https://images.unsplash.com/photo-1590725121839-892b458a74fe?w=800&q=80",
+    //   images: [],
+    // },
   ];
 
   return (
