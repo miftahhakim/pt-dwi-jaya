@@ -6,7 +6,7 @@ function Statistics() {
           <div className="col-md-3 col-6">
             <div className="stat-item">
               {/* Ganti [XX] dengan angka sebenarnya ketika data tersedia */}
-              <div className="stat-number">[XX]+</div>
+              <div className="stat-number">328+</div>
               <div className="stat-label">Project</div>
             </div>
           </div>
