@@ -3,14 +3,14 @@ function About() {
     <section id="about" className="about-section">
       <div className="container">
         <div className="row">
-          <div className="col-12 mb-4">
+          {/* <div className="col-12 mb-4">
             <div className="about-image">
               <img
                 src="/images/tim dwi jaya.jpg"
                 alt="Proyek konstruksi PT Dwi Jaya"
               />
             </div>
-          </div>
+          </div> */}
 
           <div className="col-12">
             <h2 className="section-title">Tentang CV Dwi Jaya</h2>
