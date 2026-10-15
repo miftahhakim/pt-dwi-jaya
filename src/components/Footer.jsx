@@ -59,18 +59,18 @@ function Footer() {
             <div className="footer-contact-item">
               <i className="bi bi-geo-alt"></i>
               <p>
-                [Alamat Lengkap]
+                Permata
                 <br />
                 Tangerang, Banten
               </p>
             </div>
             <div className="footer-contact-item">
               <i className="bi bi-telephone"></i>
-              <p>[Nomor Telepon]</p>
+              <p>+6285216173239</p>
             </div>
             <div className="footer-contact-item">
               <i className="bi bi-envelope"></i>
-              <p>[Email Perusahaan]</p>
+              <p>Email</p>
             </div>
           </div>
         </div>
