@@ -70,7 +70,7 @@ function Footer() {
             </div>
             <div className="footer-contact-item">
               <i className="bi bi-envelope"></i>
-              <p>Email</p>
+              <p>cvdwijaya.tgr@gmail.com</p>
             </div>
           </div>
         </div>

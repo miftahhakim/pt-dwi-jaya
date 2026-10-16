@@ -53,7 +53,7 @@ function Contact() {
               </div>
               <div className="contact-info-content">
                 <h4>Email</h4>
-                <p>[Email Perusahaan]</p>
+                <p>cvdwijaya.tgr@gmail.com</p>
               </div>
             </div>
           </div>
